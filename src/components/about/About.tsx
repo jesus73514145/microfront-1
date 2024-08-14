@@ -6,7 +6,7 @@ export default function About(){
         <Navbar/>
         <div>
             <h1>About</h1>
-            <p>Esta es la página sobre</p>
+            <p>Esta es la página sobre MICROFRONT 1</p>
         </div>
         </>
     )
