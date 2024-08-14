@@ -78,8 +78,25 @@ git remote add origin https://github.com/jesus73514145/microfront-1.git
 git push -u origin master
 
 
+
+
+## LINK DE ESTE PROYECTO EN AMPLIFY DE MICROFRONT - PRINCIPAL
+
+https://master.d19gi5htckg2p9.amplifyapp.com/
+
 ## LINK DE ESTE PROYECTO EN AMPLIFY DE MICROFRONT 1
 
 https://master.dbw8z78piw1nu.amplifyapp.com/
+
+## LINK DE ESTE PROYECTO EN AMPLIFY DE MICROFRONT - 2
+
+
+
+
+## COMANDO PARA CONFIGURAR EL CORREO Y USUARIO EN VISUAL STUDIO CODE
+
+git config --global user.email "MICORREODEGITHUB"
+
+git config --global user.name "jesus73514145"
 
 
