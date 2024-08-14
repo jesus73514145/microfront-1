@@ -73,7 +73,7 @@ git commit -m "Archivos iniciales" -m "Co-authored-by: AlbertoSoria1998 < albert
 
 QUITAR LOS ESPACIOS DEL CORREO 
 
-git remote add origin https://github.com/jesus73514145/rick-morty-course.git 
+git remote add origin https://github.com/jesus73514145/microfront-1.git
 
 git push -u origin master
 
