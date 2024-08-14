@@ -71,7 +71,7 @@ git add .
 
 git commit -m "Archivos iniciales" -m "Co-authored-by: AlbertoSoria1998 < albertosoriasoria74@gmail.com >" 
 
-QUTAR LSO ESPACIONS DEL CORREO 
+QUITAR LOS ESPACIOS DEL CORREO 
 
 git remote add origin https://github.com/jesus73514145/rick-morty-course.git 
 
